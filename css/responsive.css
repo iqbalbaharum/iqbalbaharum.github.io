@@ -1,0 +1,716 @@
+@media screen and (max-width: 1024px){
+	header {
+  display: none;
+}
+
+.responsive-header {
+  display: block;
+}
+.menu-item-has-children:hover::before{
+	opacity:0;
+	visibility: hidden;	
+}	
+.theme-layout{
+	padding-top: 0 !important;	
+}
+.upload-image > form{
+	max-width: 65%;	
+}
+
+
+}
+
+@media screen and (max-width: 980px){
+.little-info{margin-right: 40px;}
+p {
+  font-size: 13px;
+}
+
+header {
+  display: none;
+}
+
+.responsive-header {
+  display: block;
+}
+
+.menu-item-has-children::before {
+  display: none;
+}
+
+.little-contact > li {
+  border-right: none;
+}
+
+.container,
+.container-fluid {
+  padding: 0 15px;
+}
+
+.gap {
+  padding: 50px 0;
+}
+
+.no-gap {
+  padding: 0;
+}
+
+.overlap-30 {
+  margin-top: -60px;
+}
+
+.top-shop > span {
+  right: 0;
+}
+
+.top-shop::before {
+  display: none;
+}
+
+.services {
+  padding: 95px 35px 35px;
+}
+
+.blog-avatar > a {
+  width: 100%;
+}
+
+.blog-avatar {
+  margin-bottom: 25px;
+}
+
+.online-coaches > li {
+  width: 33.8%;
+}
+
+footer .widget {
+  margin-bottom: 30px;
+}
+
+.funfact {
+  margin-bottom: 40px;
+  margin-right: 65px;
+}
+
+.funfact:last-child::before {
+  bottom: 90px;
+  right: 98px;
+  top: initial;
+}
+
+.nav.nav-tabs.tab-video-btn > li:nth-child(2) {
+  position: absolute;
+  right: 180px;
+  top: 0;
+  -webkit-transform: scale(0.7);
+  -moz-transform: scale(0.7);
+  -ms-transform: scale(0.7);
+  -o-transform: scale(0.7);
+  transform: scale(0.7);
+}
+
+.nav.nav-tabs.tab-video-btn > li:nth-child(3) {
+  left: 70px;
+  position: absolute;
+  top: 190px;
+  -webkit-transform: scale(0.6);
+  -moz-transform: scale(0.6);
+  -ms-transform: scale(0.6);
+  -o-transform: scale(0.6);
+  transform: scale(0.6);
+}
+
+.video-sec-meta > h1,
+.video-sec-meta > h1 span {
+  font-size: 30px;
+}
+
+.couch-info {
+  padding-top: 50px;
+}
+
+.couch-avatar .button {
+  padding: 11px 18px;
+  font-size: 12px;
+}
+
+.couch-info span {
+  padding-bottom: 0;
+}
+
+.couch-info > h1 {
+  font-size: 30px;
+}
+
+.gap-botom {
+  margin-top: 30px;
+}
+
+.couch-info h4 {
+  padding-top: 10px;
+  float: left;
+  width: 100%;
+}
+
+.overlap-2 {
+  margin-top: 0 !important;
+}
+
+.feature-text {
+  bottom: 210px;
+  max-width: 60%;
+}
+
+.banner-info > h1 {
+  font-size: 25px;
+  line-height: 35px;
+}
+
+.banner-info > span {
+  font-size: 16px;
+}
+
+.banner-info .button {
+  font-size: 13px;
+  padding: 10px;
+}
+
+.banner-info {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.prodct-avatar > h3 {
+  font-size: 18px;
+}
+
+.ext-topgap {
+  padding-top: 80px;
+}
+
+aside {
+  margin-top: 50px;
+  float: left;
+  width: 100%;
+}
+
+.appointment-page {
+  width: 50%;
+}
+
+.event-detail ul li {
+  width: 100%;
+}
+
+.service-box {
+  bottom: -20px;
+  left: 15px;
+  width: 340px;
+}
+.cart-sec table tr td .cart-meta{
+	overflow: initial;
+	padding-left: 0;
+	
+}
+.cart-meta > span{
+	max-width: 100%;
+	padding-top: 10px;	
+}
+.checkout-fields form label{
+	margin-right: 5px;	
+}
+.checkout-fields > .row.merged .col-md-6:last-child .chekout-title{margin-top: 30px;}
+.chekout-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.main-heading > p{
+	max-width: 100%;	
+}
+.appoint-form.style2{
+	padding-left: 0;
+	padding-right: 0;
+}
+.appoint-form.style2 .button {
+    font-size: 11px;
+    padding: 16px 9px;
+}
+.send-query{float:left;}
+.about-coach{padding-left: 0;}
+.profile-avatar .button{
+	padding: 10px 30px;	
+}
+.tab.coaching > li a{
+	font-size: 12px;	
+}
+.coach-info h3{
+	font-size: 17px;	
+}
+.subscriber-meta.style2 > a{
+	float: right;	
+}
+.subscriber-meta.style2 .coach-detail{width: 290px;}
+.coach-timing.coach {
+    padding: 12px 10px;
+    text-align: center;
+    width: 130px;
+}
+.coach-timing{
+	padding: 10px;
+	width: 140px;	
+}
+.upload-image > form{max-width: 73%;}
+.consult-sec .nice-select{
+	margin-bottom: 20px;	
+}
+.couch-info > ul li{margin-right:0;}
+}
+
+
+@media screen and (max-width: 500px){
+body,
+html {
+  overflow-x: initial;
+}	
+p {
+  font-size: 13px;
+}
+
+header {
+  display: none;
+}
+
+.responsive-header {
+  display: block;
+}
+
+.container,
+.container-fluid {
+  padding: 0 15px;
+}
+
+.gap {
+  padding: 70px 0;
+}
+
+.no-gap {
+  padding: 0;
+}
+.gap.no-top{padding-top: 0;}
+.little-contact > li {
+  font-size: 9px;
+}
+
+.top-search form input {
+  width: 205px;
+}
+
+.overlap-30 {
+  margin-top: 0;
+}
+
+.main-heading > h1 {
+  font-size: 22px;
+}
+
+.main-heading > p {
+  max-width: 100%;
+}
+
+.video-sec-meta {
+  padding: 0;
+}
+
+.popup {
+  width: 300px;
+}
+
+.subscribe-popup > span {
+  max-width: 80%;
+}
+
+.subscribe-popup form input {
+  width: 90%;
+}
+
+.blog-meta > h2 {
+  font-size: 16px;
+  line-height: 23px;
+}
+
+.blog-meta {
+  margin-bottom: 30px;
+}
+
+.couch-info > ul li a {
+  padding: 7px 14px;
+}
+
+.couch-info {
+  padding-bottom: 30px;
+}
+
+.lecture-meta > a {
+  font-size: 20px;
+}
+
+.happy-caro {
+  padding: 0;
+}
+
+.happy-client-caro li::before {
+  top: 55%;
+}
+
+.happy-client-caro li::after {
+  right: 20px;
+}
+
+.consult-sec {
+  float: left;
+  padding: 20px;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.consult-sec > h1 {
+  font-size: 25px;
+  line-height: 32px;
+}
+
+#accordion {
+  margin-top: 70px;
+}
+
+.nav.nav-tabs.tab-video-btn > li:nth-child(2) {
+  position: absolute;
+  right: -100px;
+  top:0;
+  -webkit-transform: scale(0.6);
+  -moz-transform: scale(0.6);
+  -ms-transform: scale(0.6);
+  -o-transform: scale(0.6);
+  transform: scale(0.6);
+}
+
+.nav.nav-tabs.tab-video-btn > li:nth-child(3) {
+  top: 130px;
+  left: 10px;
+}
+
+.nav.nav-tabs.tab-video-btn > li {
+  margin-top: 20px;
+  margin-left: -20px;
+}
+
+.nav.nav-tabs.tab-video-btn li.active {
+  -webkit-transform: scale(0.75) !important;
+  -moz-transform: scale(0.75) !important;
+  -ms-transform: scale(0.75) !important;
+  -o-transform: scale(0.75) !important;
+  transform: scale(0.75) !important;
+}
+
+.overlap-120 {
+  margin-top: 20px;
+}
+
+.prod-sale:hover {
+  -webkit-transform: translate(0);
+  -moz-transform: translate(0);
+  -ms-transform: translate(0);
+  -o-transform: translate(0);
+  transform: translate(0);
+}
+
+.prod-sale {
+  margin-bottom: 30px;
+}
+
+.online-coaches > li {
+  width: 100%;
+}
+
+.little-info {
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+
+.footer-meta > p {
+  max-width: 100%;
+}
+
+.footer-meta input {
+  width: 100%;
+}
+
+.error-page form input {
+  max-width: 80%;
+}
+
+.error-page > em {
+  font-size: 27px;
+}
+
+.appoint-form > form input {
+  margin-bottom: 10px;
+}
+
+.appoint-form > h2 {
+  font-size: 21px;
+  max-width: 100%;
+}
+
+.blog-avatar {
+  margin-bottom: 0 !important;
+}
+
+.pagenation > li {
+  margin-bottom: 10px;
+}
+
+.blog-list-sec .blog-meta h2 {
+  font-size: 20px;
+}
+
+.contact-us > ul li i {
+  line-height: 35px;
+  width: 35px;
+}
+
+.contact-us > ul li em {
+  font-size: 13px;
+  width: 86%;
+}
+
+.likes > li {
+  font-size: 11px;
+}
+
+.login-area > p {
+  max-width: 100%;
+}
+
+.top-area > span {
+  font-size: 28px;
+}
+
+.services > h1 {
+  font-size: 22px;
+}
+
+blockquote {
+  padding: 26px 10px;
+  font-size: 18px;
+}
+
+.instructure-meta {
+  margin-top: 20px;
+}
+
+.ratings > li {
+  width: 100%;
+}
+
+.comment-meta > i {
+  float: left;
+  width: 100%;
+  margin-left: 0;
+}
+
+.promo-detail {
+  padding: 50px 0;
+}
+
+.progres {
+  width: 100%;
+}
+
+.rating-line {
+  margin-top: 20px;
+}
+
+.rating-line .rating {
+  margin-left: 0;
+}
+
+.appointment-page {
+  width: 100%;
+}
+
+.event-detail {
+  padding: 20px;
+}
+
+.service-box {
+  position: unset;
+  width: 100%;
+}
+
+.coming-soon-top {
+  padding: 0 20px;
+}
+
+.coming-soon-top .social-media {
+  float: left;
+  margin-bottom: 50px;
+  margin-top: 0;
+  width: initial;
+}
+
+.coming-meta > p {
+  max-width: 100%;
+}
+
+.count,
+.coming-meta form input {
+  width: 100%;
+}
+
+.ClassyCountdown-value > div {
+  font-size: 20px;
+}
+
+.ClassyCountdown-wrapper > div span {
+  font-size: 7px !important;
+}
+.cart-sec table tr td{
+	padding: 15px 5px 15px 20px;	
+}
+.proceed{
+	margin-top: 35px;
+	float:left;	
+}
+.total-area > ul li span{
+	margin-right: 80px;	
+}
+.total-area > ul li.order-total{
+	max-width: 100%;	
+}
+.checkout-bg{
+	padding: 30px 20px;	
+}
+
+.checkout-fields .button{
+	float:left;
+	margin-top: 20px;	
+}
+.checkout-fields  .nice-select{margin-top: 10px}
+.coach-finding{
+	padding: 0;	
+}
+.appoint-form.style2{padding-right: 10px;}
+.coaches-list > li{
+	padding: 30px 30px;	
+}
+.coach-online-profile .online-coaches > li{
+	width: 100%;	
+}
+.profiel-meta > a{
+	float:left;
+	margin-top: 20px;	
+}
+.upload-image > form {
+    max-width: 55%;
+}
+
+.tab-content.edit-profile {
+    float: left;
+    margin-top: 30px;
+    width: 100%;
+}
+.subscriber-meta{
+	width: 100%;	
+}
+.coach-detail{
+	padding-left: 0;
+	padding-top: 15px;	
+}
+.coach-timing{
+	margin-top: 15px;	
+}
+.subscriber-meta.style3 {
+    padding-bottom: 0;
+}
+.subscriber-meta.style3 .coach-detail,
+.subscriber-meta.style2 .coach-detail,
+.coach-detail{
+	width: 100%;	
+}
+.feature-caro-btn{
+	bottom: 0;
+	left: initial;
+	right: 20px;	
+}
+.feature-text{
+	position: initial;
+	color: #333;	
+}
+.feature-text > h3{
+	width: 100%;
+	font-size: 15px;
+	line-height: initial;	
+}
+.popup,
+.popup-wraper{
+	width: 100%;	
+	display: none !important;
+}
+
+.sponsor-caro .owl-controls{bottom: -38px;}
+.about-course{
+	display:inline-block;
+	padding-left:0;	
+}
+.about-course > h4 {
+    font: bold 17px "montserrat";
+    margin-top: 15px;
+    max-width: 100%;
+    width: 100%;
+}
+.feature-caro-btn .owl-next::before{left: 10px;}
+.feature-caro-btn .owl-prev::before{left: -93px;}
+.rating-sec.gray-bg{
+	padding: 25px 20px;	
+}
+.owl-controls {
+    right: initial;
+    top: 94%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.owl-dot{
+	display:inline-block;
+}
+.owl-dot.active {
+    height: 10px;
+    width: 30px;
+}
+.blog-meta > ul,
+.blog-meta > p{
+	padding-top: 10px;	
+}
+.package{
+	margin-bottom: 30px;	
+}
+.happy-client-caro{
+	padding: 20px 0;	
+}
+.video-tab{
+	margin-top: 10px;	
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

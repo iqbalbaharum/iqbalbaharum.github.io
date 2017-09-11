@@ -1,0 +1,82 @@
+/*
+	main color file
+Project: lifecoach:
+color: yellow
+	
+*/
+
+/*=========================
+	FONT COLOR
+=========================*/
+.little-address > span i,
+.video-prices,
+.promo-package li i,
+.feature-caro-btn .owl-prev:hover::before,
+.feature-caro-btn .owl-next:hover::before,
+.coach-timing > span i
+{
+	color: #f497b0;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=========================
+	BACKGROUND COLOR
+=========================*/
+.button,
+.pkg-avatar > span,
+.nice-select .option:hover, .nice-select .option.focus, .nice-select .option.selected.focus,
+.prev > a, .next > a,
+.progres.status75::before,
+.progres.status65::before,
+.progres.status40::before,
+.progres.status50::before,
+.event-detail,
+.contact-us > ul li i,
+.responsive-header .menu-btn,
+.feature-caro-btn .owl-prev::after,
+.feature-caro-btn .owl-next::after,
+.mega-meta > ul > li::before,
+.edit-master .nav.nav-tabs.tab-btn > li.active,
+.skill-ratio > li::before,
+.send-query > a:hover,
+.subscriber-meta.style2 > a,
+.services .button:hover,
+.consult-sec form button:hover,
+.package .button:hover 
+{
+	background: #f497b0;
+}
+
+
+
+
+
+
+
+/*=========================
+	BORDER COLOR
+=========================*/
+
+.couch-info > ul li a:hover,
+.couch-info > ul li a.active,
+.prev > a, .next > a,
+.coach-timing 
+{
+	border-color:#f497b0;	
+}
+
+.nice-select::after {
+    border-bottom-color: #f497b0;
+    border-right-color: #f497b0;
+}

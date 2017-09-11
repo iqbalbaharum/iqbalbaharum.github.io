@@ -1,0 +1,157 @@
+/*
+	main color file
+	Project: lifecoach:
+	color: blue
+	
+*/
+/*=========================
+	FONT COLOR
+=========================*/
+
+.main-heading > span,
+.video-sec-meta > h1,
+.blog-meta > h2:hover,
+.blog-meta > ul li:hover,
+.couch-info span,
+.couch-info h4,
+.package-detail > span,
+.package-detail > ul li i,
+.col-heading > span,
+.lecture-meta > h4:hover,
+.lecture-avatar:hover a i,
+.video-lectures .seemore:hover,
+.happy-client-caro li::before,
+.happy-client-caro li::after,
+.recent-info > span,
+.service-links > li a:hover,
+.recent-info h5 a:hover,
+.twitter-meta > span,
+.twitter-widget > li i,
+.twitter-meta > h5:hover,
+.coach-info h3:hover,
+.funfact-info h2 span,
+.why-coach > h5 a:hover,
+.bread-crumb > li a:hover,
+.main-menu > ul > li ul li a:hover, 
+.main-menu > div > ul > li ul li a:hover,
+aside .widget .twitter-meta > h5:hover,
+.comment-meta > i,
+.event-detail ul li span,
+.event-info > h3:hover,
+.team-info > h4:hover,
+.overlay-meta > h4:hover,
+.contact-us > h3 span,
+.error-page > p a,
+.search-area > h3 span,
+.responsive-menu > ul > li.menu-item-has-children.active > a,
+.responsive-menu ul ul li a:hover,
+.mega-info .address > li i,
+.video-meta > h4:hover,
+.total-area > ul li.order-total,
+.profiel-meta > span,
+.nav.nav-tabs.coaching > li a.current,
+.about-coach > span,
+.coach-detail > span,
+.tags-area > ul li a:hover,
+.cat-area > ul li a:hover,
+.tags-area > span,
+.cat-area > span,
+.about-course > h4:hover,
+.table-condensed tbody tr td.active
+{
+	color: #9a94c8;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*=========================
+	BACKGROUND COLOR
+=========================*/
+.topbar,
+.main-menu,
+.top-strip::after,
+.top-strip::before,
+.consult-sec,
+.panel-title > a[aria-expanded="true"],
+.widget-title::before,
+.subscriber form button,
+.funfact > h4::before,
+.topbar2,
+.nice-select .list,
+.top-shop > span,
+.pagenation > li a:hover,
+.pagenation > li.active a,
+.check-buttons > a:hover,
+.top-shop::before,
+.menu-item-has-children::before,
+.reply-btn:hover,
+.event-date-box,
+.prod-info,
+.purchaser > a:hover,
+.coming-meta form button,
+.coming-soon-top .social-media li a:hover,
+.login-area form button,
+.footer-meta button,
+.res-top-bar,
+.mega-meta > span::before,
+.checkout-bg.blue,
+.edit-fields form button,
+.del-account > a,
+.profiel-meta > a,
+.send-query > a,
+.package .button,
+.banner-info .button,
+.question-popup form .button,
+.header-area .appointment .button:hover,
+.video-sec-meta .button:hover,
+.funfact-info a.button:hover,
+.contact-from .button,
+.delete-cart:hover,
+.error-page form button,
+.twitter-widget .ps-scrollbar-y
+{
+	background: #9a94c8;
+}
+
+
+
+
+
+.selection .list li:hover,
+.owl-dot.active {
+    background: #9a94c8 !important;
+}
+
+
+
+/*=========================
+	BORDER COLOR
+=========================*/
+.main-menu > ul > li ul,
+.main-menu > div > ul > li ul, 
+.quick-contact a.button,
+.package .button,
+.banner-info .button,
+.funfact-info .button,
+.pagenation > li a:hover,
+.pagenation > li.active a,
+.contact-from .button,
+.appoint-form .button,
+.subscribe-popup .button,
+.responsive-menu > ul > li.menu-item-has-children.active > a,
+.question-popup form .button,
+.nav.nav-tabs.coaching > li a.active,
+.tab-video-btn li.active > img
+{
+	border-color:#9a94c8;	
+}
+
